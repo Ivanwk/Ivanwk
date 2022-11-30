@@ -8,7 +8,7 @@ I'm Ivan, a data analyst with a background in software engineering.
 - 📝 Taught myself SQL, Python and Tableau
 
 ### 📚 Projects 📚
-- -
+- Data Analyst Portfolio can be found [here](https://github.com/Ivanwk/data-analyst-portfolio)
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
